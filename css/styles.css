@@ -371,6 +371,11 @@ img {
   margin-bottom: 16px;
 }
 
+.logo-part-light {
+    color: #f4f4fd;;
+}
+
+
 .footer-text {
     font-weight: 400;
     font-size: 16px;
